@@ -21,8 +21,9 @@
 ### [Xem Gravity Falls mùa 2 tập 7 – Hội những con mắt lãng quên Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 7 – Hội những con mắt lãng quên HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 8 – Trò chơi của Blendins Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập 8 – Trò chơi của Blendins](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### Xem Gravity Falls mùa 2 tập 9 – Thánh yêu:  —-
+### [Xem Gravity Falls mùa 2 tập 8 – Trò chơi của Blendins HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
+### [Xem Gravity Falls mùa 2 tập 9 – Thánh yêu Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=)
+### [Xem Gravity Falls mùa 2 tập 9 – Thánh yêu HDPlay](https://hdplay.se/?HLSP2P=)
 ### Xem Gravity Falls mùa 2 tập 10 – Bí ẩn nhà Northwest: —-
 ### Xem Gravity Falls mùa 2 tập 11 – Không như vẻ bề ngoài: —-
 ### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
