@@ -35,9 +35,8 @@
 ### [Xem Gravity Falls mùa 2 tập 17 – Dipper và Mabel vs Tương lai HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 18 – Weirdmageddon Part 1 Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 18 – Weirdmageddon Part 1 HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập 19 – Weirdmageddon Part 2 Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập 19 – Weirdmageddon Part 2 HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập đặc biệt – Between The Pines Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
+### [Xem Gravity Falls mùa 2 tập 19 – Weirdmageddon Part 2:  —-
+### Xem Gravity Falls mùa 2 tập đặc biệt – Between The Pines Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập đặc biệt – Between The Pines HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 20 – Weirdmageddon Part 3 + 4 [Finale] Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 20 – Weirdmageddon Part 3 + 4 [Finale] HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
