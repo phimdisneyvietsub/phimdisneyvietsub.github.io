@@ -5,8 +5,8 @@
 
 #### Nội dung phim
 ##### 2 chị em sinh đôi Dipper Pines và Mabel Pines tham gia vào một chuyến phiêu lưu không lường trước khi họ dành mùa hè của mình ở cùng với ông cậu tại một thị trấn nhỏ mang tên Gravity Falls. Dipper và Mabel được ông cậu bắt làm việc tại một điểm thu hút khách du lịch của ông với những món hàng lừa tình. Cuộc sống của họ thật buồn chán cho đến khi Dipper Pines phát hiện ra một cuốn sổ nhật ký được cất giấu trong rừng. Với cuốn nhật ký, họ bắt đầu đi tìm bí ẩn thực sự của thị trấn nhỏ Gravity Falls.
-### [Xem Gravity Falls mùa 2 tập 1 – Bữa tiếc karaoke kinh dị Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập 1 – Bữa tiếc karaoke kinh dị HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
+### [Xem Gravity Falls mùa 2 tập 1 – Bữa tiếc karaoke kinh dị Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/8cf554d9-4e20-4bff-aa39-ab28e649c57b/720p/file.m3u8)
+### [Xem Gravity Falls mùa 2 tập 1 – Bữa tiếc karaoke kinh dị HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/8cf554d9-4e20-4bff-aa39-ab28e649c57b/720p/file.m3u8)
 ### [Xem Gravity Falls mùa 2 tập 2 – Xuống hầm Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 2 – Xuống hầm HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 3 – Trận chiến banh gôn Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
