@@ -28,8 +28,8 @@
 ### Xem Gravity Falls mùa 2 tập 11 – Không như vẻ bề ngoài: —-
 ### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/fadd4bea-2984-40d5-991d-7ade215fe7cd/720p/file.m3u8)
 ### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/fadd4bea-2984-40d5-991d-7ade215fe7cd/720p/file.m3u8)
-### [Xem Gravity Falls mùa 2 tập 13 – Dungeon Dungeon and More Dungeon Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập 13 – Dungeon Dungeon and More Dungeon HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
+### [Xem Gravity Falls mùa 2 tập 13 – Dungeon Dungeon and More Dungeon Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/d780c848-37a4-4eac-86de-1dba8b652efc/720p/file.m3u8)
+### [Xem Gravity Falls mùa 2 tập 13 – Dungeon Dungeon and More Dungeon HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/d780c848-37a4-4eac-86de-1dba8b652efc/720p/file.m3u8)
 ### [Xem Gravity Falls mùa 2 tập 16 – Điểm du lịch bên đường Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 16 – Điểm du lịch bên đường HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 17 – Dipper và Mabel vs Tương lai Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
