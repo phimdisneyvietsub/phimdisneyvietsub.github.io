@@ -1,4 +1,5 @@
 ## [phimdisneyvietsub.github.io](https://phimdisneyvietsub.github.io)
+#### * Lưu ý: Vui lòng nhấn tập bên dưới để xem, khi xem xong vui lòng thoát ra ngoài để xem tập khác. Thanks!!!!
 ## Gravity Falls 2
 ###### OCTOBER 20, 2016 / PRO KEN
 ![image](https://user-images.githubusercontent.com/75318518/142972636-84780684-e921-48a7-8654-7846e47c2d62.png)
