@@ -26,8 +26,8 @@
 ### [Xem Gravity Falls mùa 2 tập 9 – Thánh yêu HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/d64d90fe-184a-4d6e-b9d0-94817b936493/720p/file.m3u8)
 ### Xem Gravity Falls mùa 2 tập 10 – Bí ẩn nhà Northwest: —-
 ### Xem Gravity Falls mùa 2 tập 11 – Không như vẻ bề ngoài: —-
-### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
-### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
+### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/fadd4bea-2984-40d5-991d-7ade215fe7cd/720p/file.m3u8)
+### [Xem Gravity Falls mùa 2 tập 12 – Câu chuyện của 2 Stan HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/video-5b.gapo.vn/videos/results/fadd4bea-2984-40d5-991d-7ade215fe7cd/720p/file.m3u8)
 ### [Xem Gravity Falls mùa 2 tập 13 – Dungeon Dungeon and More Dungeon Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 13 – Dungeon Dungeon and More Dungeon HDPlay](https://hdplay.se/?HLSP2P=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
 ### [Xem Gravity Falls mùa 2 tập 16 – Điểm du lịch bên đường Bitmovin](https://bitmovin.com/demos/stream-test?format=hls&manifest=https://raw.githubusercontent.com/phimdisneyvietsub/phimdisneyvietsub/main/)
